@@ -18,7 +18,7 @@
     <tcnative.version>2.0.6.Final</tcnative.version>
     <opentracing.version>0.30.0</opentracing.version>
     <brave.version>4.8.0</brave.version>
-    <brave_opentracing.version>0.22.1</brave_opentracing.version>
+    <brave_opentracing.version>0.31.2</brave_opentracing.version>
     <iozipkin.version>2.0.2</iozipkin.version>
     <jaeger.version>0.21.0</jaeger.version>
     <findbugs.version>3.0.1</findbugs.version>
